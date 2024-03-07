@@ -1,0 +1,2 @@
+if you find in any question that find minimum distance between any of them is as large as possible
+then we have to use binary search
